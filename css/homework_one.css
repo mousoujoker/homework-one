@@ -12,19 +12,21 @@
 		}
 	#bg{margin-top:6%;
 	width:100%}
+	a{
+		color:black;
+		font-family:arial;
+		text-decoration:none;
+	}
+	a:hover{font-size:32px;}
 	
 	p{
-		font-family:arial blod;
 		font-size:25pt;
-		color:black;
 	}
 	#saitek{margin-left:76%;
 			margin-top:10%;
 			font-size:28pt;
-			color:black;
 }
 	#tritton{margin-left:70%;
 	margin-top:8%;}
 	#madcatz{margin-top:8%;
 	margin-left:64%;}
-	div .text{position:relative;}
