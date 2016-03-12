@@ -1,0 +1,24 @@
+@charset="utf-8";
+	#icon img{
+		margin-left:3%;
+		margin-top:0.5%;
+	}
+	body{
+		margin-left:0px;
+		margin-right:0px;
+		}
+	#background{
+	width:100%}
+	p{
+		font-family:arial blod;
+		font-size:25pt;
+	}
+	#saitek{margin-left:76%;
+			margin-top:10%;
+			font-size:28pt;
+}
+	#tritton{margin-left:70%;
+	margin-top:8%;}
+	#madcatz{margin-top:8%;
+	margin-left:64%;}
+	div .text{position:relative;}
