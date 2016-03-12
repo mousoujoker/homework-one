@@ -1,21 +1,27 @@
 @charset="utf-8";
 	#icon img{
 		margin-left:3%;
-		margin-top:0.5%;
+		margin-top:-2.5%;
 	}
 	body{
+		background-size:100%;
+		margin-bottom:0px;
+		margin-top:0px;
 		margin-left:0px;
 		margin-right:0px;
 		}
-	#background{
+	#bg{margin-top:6%;
 	width:100%}
+	
 	p{
 		font-family:arial blod;
 		font-size:25pt;
+		color:black;
 	}
 	#saitek{margin-left:76%;
 			margin-top:10%;
 			font-size:28pt;
+			color:black;
 }
 	#tritton{margin-left:70%;
 	margin-top:8%;}
