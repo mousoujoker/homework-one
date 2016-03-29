@@ -1,0 +1,106 @@
+@charset="utf-8";
+body{
+	background-color:black;
+}
+#headstrong{
+	width:95%;
+	margin-left:5%;
+	margin-top:8%;
+	min-width:800px;
+}
+#downbutton{
+	margin-left:47.5%;
+	width:5%;
+	margin-top:6%;
+}
+#bf{
+	position:absolute;
+	width:20%;
+	margin-top:25%;
+	margin-left:10%;
+	margin-bottom:5%;
+}
+a{
+	color:white;
+	font-family:Microsoft YaHei;
+	font-weight:bold;
+	text-align:center;
+}
+.bf:hover #bftext{
+	display:block;
+}
+#bftext {
+	display:none;
+}
+#bftext{
+	position:absolute;
+	margin-top:25%;
+	margin-left:10%;
+	background-color:rgba(0,0,0,0.7);
+	width:12%;
+	height:45%;
+	padding:8% 0 0 8%;
+}
+
+#me{
+	position:absolute;
+	width:20%;
+	margin-top:25%;
+	margin-left:40%;
+	margin-right:40%;
+	margin-bottom:5%;
+}
+#metext{
+	display:none;
+}
+.me:hover #metext{
+	display:block;
+}
+#metext{
+	position:absolute;
+	margin-top:25%;
+	margin-left:40%;
+	background-color:rgba(0,0,0,0.7);
+	width:12%;
+	height:40%;
+	color:white;
+	padding:13% 0 0 8%;
+}
+#swbf{
+	position:absolute;
+	width:20%;
+	margin-top:25%;
+	margin-right:10%;
+	margin-left:70%;
+	margin-bottom:5%;
+}
+#swbftext{
+	display:none;
+}
+
+.swbf:hover #swbftext{
+	display:block;
+}
+#swbftext{
+	position:absolute;
+	margin-top:25%;
+	margin-left:70%;
+	background-color:rgba(0,0,0,0.7);
+	width:13%;
+	height:40%;
+	padding:13% 3% 0 6%;
+	}
+audio{
+	width:20%;
+	position:fixed;
+}
+#ealogo{
+	position:absolute;
+	margin:65% 0 0 70%;
+	width:10%;
+}
+#dicelogo{
+	position:absolute;
+	margin:66% 0 0 82%;
+	width:15%;
+}
